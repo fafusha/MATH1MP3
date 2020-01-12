@@ -1,0 +1,1 @@
+open("yearsummary.txt", "w")
