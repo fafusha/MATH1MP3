@@ -1,1 +1,0 @@
-open("hostdata.txt", "r")

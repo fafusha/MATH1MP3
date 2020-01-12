@@ -1,1 +1,0 @@
-open("yearsummary.txt", "w")
