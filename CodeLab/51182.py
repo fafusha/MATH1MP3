@@ -1,0 +1,1 @@
+open("hostdata.txt", "r")

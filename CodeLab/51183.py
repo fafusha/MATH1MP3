@@ -1,0 +1,1 @@
+open("winterdata.txt", "r")

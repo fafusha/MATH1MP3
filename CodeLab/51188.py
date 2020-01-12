@@ -1,0 +1,1 @@
+open("priceList.txt", "w")
